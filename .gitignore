@@ -3,6 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 mindhive.db
+.gitignore
 # C extensions
 *.so
 
